@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sthitaprajna Sarangi</h1>
+<div align="center">
+  <img src="https://github.com/sps-cloud/sps-cloud/blob/main/test.png" alt="test banner">
+</div>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sps-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="sps-cloud" /> </p>
