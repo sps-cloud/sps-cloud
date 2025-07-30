@@ -13,7 +13,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sps-cloud](https://github.com/sps-cloud)
 
 - 💬 Ask me about **AWS, Azure Cloud + AI**
-#- 📫 How to reach me **sthitaprajnasarangi0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
