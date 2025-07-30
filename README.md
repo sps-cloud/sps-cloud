@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sthitaprajna Sarangi</h1>
 <div align="center">
-  <img src="https://github.com/sps-cloud/sps-cloud/blob/main/test.png" alt="test banner">
+  <img src="https://github.com/sps-cloud/sps-cloud/blob/main/snap-devops.png" alt="test banner">
 </div>
 <h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast .</h3>
 
