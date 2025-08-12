@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sthitaprajna Sarangi</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <div align="center">
   <img src="https://github.com/sps-cloud/sps-cloud/blob/main/snap-devops.png" alt="test banner">
 </div>
